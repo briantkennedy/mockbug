@@ -1,0 +1,2 @@
+# mockbug
+Gomock usability issue
